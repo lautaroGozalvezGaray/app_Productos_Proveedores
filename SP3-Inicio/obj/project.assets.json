@@ -1263,11 +1263,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lauta\\Downloads\\SP3-Completa\\SP3-Inicio\\SP3-Inicio.csproj",
+      "projectUniqueName": "C:\\Users\\lauta\\OneDrive\\Documentos\\Programacion\\Facultad\\SegundoSemestre\\Laboratorio de Programacion\\SP3-Completa\\SP3-Inicio\\SP3-Inicio.csproj",
       "projectName": "SP3-Inicio",
-      "projectPath": "C:\\Users\\lauta\\Downloads\\SP3-Completa\\SP3-Inicio\\SP3-Inicio.csproj",
+      "projectPath": "C:\\Users\\lauta\\OneDrive\\Documentos\\Programacion\\Facultad\\SegundoSemestre\\Laboratorio de Programacion\\SP3-Completa\\SP3-Inicio\\SP3-Inicio.csproj",
       "packagesPath": "C:\\Users\\lauta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lauta\\Downloads\\SP3-Completa\\SP3-Inicio\\obj\\",
+      "outputPath": "C:\\Users\\lauta\\OneDrive\\Documentos\\Programacion\\Facultad\\SegundoSemestre\\Laboratorio de Programacion\\SP3-Completa\\SP3-Inicio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lauta\\AppData\\Roaming\\NuGet\\NuGet.Config",
